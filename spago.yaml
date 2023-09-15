@@ -1,0 +1,17 @@
+package:
+  dependencies:
+    - console
+    - effect
+    - exitcodes
+    - node-process
+    - node-streams
+    - open-memoize
+    - prelude
+  name: optparse
+  test:
+    dependencies: []
+    main: Test.Main
+workspace:
+  extra_packages: {}
+  package_set:
+    registry: 41.0.0
